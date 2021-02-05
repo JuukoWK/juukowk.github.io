@@ -18,6 +18,6 @@ function loadpage(e){
 }
 
 
-$(document).on ("click" , "#menu a", loadpage);
+$(document).on ("click", "#menu a", loadpage);
 
  
